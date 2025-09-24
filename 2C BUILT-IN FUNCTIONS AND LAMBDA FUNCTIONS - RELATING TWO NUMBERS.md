@@ -22,7 +22,7 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
-```
+```python
 num1 = int(input())
 num2 = int(input())
 find_smaller = lambda x, y: x if x<y else y
