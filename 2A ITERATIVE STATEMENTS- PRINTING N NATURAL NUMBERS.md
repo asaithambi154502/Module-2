@@ -38,7 +38,5 @@ for i in range(1, n + 1):
 
 ### RESULT
 Thus the python program for printing `n` natural numbers using a `for` loop has been implemented and executed successfully.
-```
 
-```
 
