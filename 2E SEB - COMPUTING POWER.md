@@ -21,7 +21,7 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM
 
-```
+```python
 x=int(input())
 y=int(input())
 z=pow(x,y)
