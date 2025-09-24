@@ -22,13 +22,13 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
-
+```
 num1 = int(input())
 num2 = int(input())
 find_smaller = lambda x, y: x if x<y else y
 smaller_number = find_smaller(num1,num2)
 print(f"{num1} is smaller than {num2}")
-
+```
 
 
 ### OUTPUT
